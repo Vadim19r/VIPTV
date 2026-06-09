@@ -22,5 +22,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
 #PLAYLIST:IPTVlite
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч ТВ
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные"   ,Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
