@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
 #PLAYLIST:IPTVlite
 
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные" ,Первый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные" ,Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные" ,Россия 1 HD
@@ -16,5 +18,5 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv-pl4" tvg-logo="https://iptvx.one/picons/18.png" group-title="Общественные" ,Рен ТВ 4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные" ,Первый канал (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl4" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Общественные" ,Пятница! (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
