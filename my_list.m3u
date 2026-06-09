@@ -16,3 +16,5 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv-pl4" tvg-logo="https://iptvx.one/picons/18.png" group-title="Общественные" ,Рен ТВ 4
 http://https://ren.tv/live
+#EXTINF:-1 ,Первый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
