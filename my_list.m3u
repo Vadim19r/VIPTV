@@ -22,6 +22,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные"   ,Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="disney-c" tvg-logo="https://iptvx.one/picons/disney-c.png" group-title="Детские"   ,Disney
-https://smotret.tv/detskie/kanal-disney
+https://smotret.tv/detskie/kanal-disney.m3u
 #EXTINF:-1 tvg-id="veles-gobln" tvg-logo="https://iptvx.one/picons/veles-gobln.png" group-title="Фильмы"   ,Veles-Goblin
-https://telik.live/kbc-goblin.html
+https://telik.live/kbc-goblin.html.m3u8
