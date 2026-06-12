@@ -45,6 +45,12 @@ http://31.148.48.15/Ani/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru@SD",История (576p)
 http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru@SD",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru@SD",КИНО ТВ (720p)
+http://31.148.48.15/Kino_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="2x2.ru@SD",2х2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 Популярные телешоу
 https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/trending-series.m3u
