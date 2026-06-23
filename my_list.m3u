@@ -25,8 +25,6 @@ http://31.148.48.15/Match_Igra/index.m3u8
 http://31.148.48.15/Match_Nash_Sport/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" tvg-logo="https://iptvx.one/picons/sts-pl4.png" group-title="Общественные" ,СТС (+4) (576p)
 http://31.148.48.15/STS/index.m3u8
-#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="Кино и сериалы" ,Cinema
-http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru@SD",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Кино и сериалы" ,.sci-fi
@@ -43,9 +41,7 @@ http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="Познавательные" ,История
 http://46.32.176.50/istoriya/index.m3u8
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кино и сериалы" ,Viju TV1000
-http://85.117.37.41/tv1000/index.m3u8
-#EXTINF:-1 tvg-id="kino-tv-pl4" tvg-logo="https://iptvx.one/picons/kino-tv-pl4.png" group-title="Кино и сериалы"  ,КИНО ТВ (576p)
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино и сериалы"  ,КИНО ТВ (576p)
 http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:-1 tvg-id="2x2.ru@SD",2х2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
