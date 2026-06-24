@@ -39,7 +39,7 @@ http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:-1 tvg-id="IllusionPlus.ru@SD" group-title="Кино и сериалы" ,Иллюзион+
 http://31.148.48.15/Illusion_plus/index.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Абакан) (576p)
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Абакан)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="Познавательные" ,История
 http://46.32.176.50/istoriya/index.m3u8
