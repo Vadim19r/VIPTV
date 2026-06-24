@@ -43,7 +43,7 @@ http://31.148.48.15/Illusion_plus/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="Познавательные" ,История
 http://46.32.176.50/istoriya/index.m3u8
-#EXTINF:-1 tvg-id="2x2.ru@SD",2х2
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" ,2х2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" group-title="Детские" ,Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
