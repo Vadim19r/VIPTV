@@ -27,20 +27,27 @@ http://31.148.48.15/Match_Igra/index.m3u8
 http://31.148.48.15/Match_Nash_Sport/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",EUROSPORT 1
 http://dmi3y-tv.online/hls/CH_EUROSPORT1.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Кино и сериалы",.black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="Кино и сериалы" ,.red
+http://192.162.64.99:5100/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Кино и сериалы" ,.sci-fi
-http://31.148.48.15/SONY_SCI_FI/index.m3u8
+http://stream.mcquack.net/180/index.m3u8
+
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Кино и сериалы" ,Amedia 1
-http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Кино и сериалы" ,Amedia 2
-http://31.148.48.15/A2/index.m3u8
-#EXTINF:-1 tvg-id="AmediaHit.ru@SD" group-title="Кино и сериалы" ,Amedia Hit (720p)
-http://31.148.48.15/Amedia_HIT_HD/index.m3u8
-#EXTINF:-1 tvg-id="AmediaPremium.ru@SD" group-title="Кино и сериалы" ,Amedia Premium (720p)
-http://31.148.48.15/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино и сериалы" ,КИНО ТВ
-http://31.148.48.15/Kino_TV/index.m3u8
-#EXTINF:-1 tvg-id="IllusionPlus.ru@SD" group-title="Кино и сериалы" ,Иллюзион+
-http://31.148.48.15/Illusion_plus/index.m3u8
+http://iptv.mega.net.ru:8888/A1/index.m3u8
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Кино и сериалы",Amedia 2
+http://iptv.mega.net.ru:8888/A2/index.m3u8
+#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="Кино и сериалы" ,Cinema
+http://iptv.mega.net.ru:8888/Cinema/index.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кино и сериалы" ,Viju TV1000
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Кино и сериалы" ,Viju TV1000 Action
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино и сериалы" ,Кино ТВ
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="Кино и сериалы" ,Иллюзион+
+http://iptv.mega.net.ru:8888/Illuzion_/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Абакан)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="Познавательные" ,История
