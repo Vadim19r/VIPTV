@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
 #PLAYLIST:IPTVlite
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" cache=1000 deinterlace=1
 
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные" ,Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
@@ -67,11 +66,5 @@ http://46.32.176.50/mult/index.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские" ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1 HD.png" group-title="Спортивные",Eurosport 1 HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-#EXTINF:-1 tvg-logo="http://tv.ot.net.ru/tv-icon/70.png" tvg-name="match-arena",Матч! Арена
-http://tv.ot.net.ru/channel/70
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Окко.Спорт 2
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
